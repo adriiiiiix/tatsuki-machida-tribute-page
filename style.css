@@ -1,0 +1,149 @@
+body {
+  background-color: #FFEFE1;
+}
+
+#main {
+  font-family: "Open Sans", sans-serif; 
+  font-size: 14px; 
+  color: #B39171;
+}
+
+.header {
+  text-align: center;
+ 
+}
+
+#title {
+  font-family: Garamond, serif;
+  font-size: 100px;
+  position: relative;
+  right: 2.5em;
+  top: 1em;
+}
+
+#img-div {
+  text-align: right;
+    font-family: Garamond, serif; 
+  font-size: 28px;
+}
+
+#img-caption {
+  position: relative;
+  bottom: 14em;
+  right: 3em;
+}
+#image {
+  max-width: 100%;
+  width: 40%; 
+  position: relative;
+  bottom: 12em;
+  right: 9em;
+ 
+}
+
+.rectangle {
+  max-width: 100%; 
+  position: relative;
+  bottom: 70em;
+  left: 35em;
+  height: 25em;
+  width: 40em;
+  background-color: none;
+  border-style: solid;
+  border-width: 20px;
+  border-color: #FDCB8B;
+  z-index: -1;
+}
+
+#intro {
+  position: relative;
+  bottom: 21em;
+  font-size: 30px;
+  text-align: center;
+}
+
+.quote {
+  font-family: Garamond, serif; 
+  font-size: 26px;
+  color: #FBA12D; 
+  quotes: "\201C" "\201D";
+}
+
+#tribute-info {
+  padding: 5em 15em 5em 15em;
+  position: relative;
+  bottom: 40em;
+}
+
+.info-quote {
+  padding: 2em 0 0.5em 0; 
+  font-weight: bold;
+}
+
+.author {
+  text-align: right;
+  font-size: 16px;
+  padding: 0 0 2em 0;
+  color: #FDB961;
+}
+
+h1, h3 {
+  color: #E8782D;
+}
+
+h2 {
+  color: #E8782D;
+  font-family: Garamond, serif;
+  font-size: 26px;
+}
+
+hr {
+  color: #FBA12D;
+  width: 4em;
+  border-width: 2px;
+  border-style: solid;
+  position: relative;
+  bottom: 35em;
+  right: 30.5em;
+}
+
+.footer {
+  position: relative;
+  bottom: 40em;
+  position: relative;
+  left: 10em; 
+  
+}
+
+#footer-info {
+  position: relative;
+  bottom: 28em;
+  left: 38em; 
+  
+}
+
+a {
+  color: #FDB961;
+}
+
+a:visited {
+  color: #B39171;
+}
+
+#footer-image {
+  width: 50%;
+}
+
+.rectangle-footer {
+  max-width: 100%; 
+  height: 25em;
+  width: 40em;
+  position: relative;
+  bottom: 40em;
+  left:15em;
+  background-color: none;
+  border-style: solid;
+  border-width: 20px;
+  border-color: #FDCB8B;
+  z-index: -1;
+}
